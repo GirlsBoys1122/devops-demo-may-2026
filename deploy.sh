@@ -1,4 +1,4 @@
 #!/bin/bash
 
-Deploying app.."
-
+echo Deploying app.."
+echo Done
