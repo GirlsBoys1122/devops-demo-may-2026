@@ -1,5 +1,5 @@
 #!/bin/bash
-
+Testing git fetch
 echo "Deploying app.."
 echo Done
 echo not done
